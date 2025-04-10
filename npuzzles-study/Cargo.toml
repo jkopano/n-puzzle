@@ -1,0 +1,8 @@
+[package]
+name = "npuzzles-study"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+npuzzle-lib = { path = "../npuzzle" }
+rayon = "1.10.0"

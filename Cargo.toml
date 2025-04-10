@@ -1,0 +1,2 @@
+[workspace]
+members = ["algorithm_derive", "npuzzle", "npuzzle_cmd", "npuzzles-study"]

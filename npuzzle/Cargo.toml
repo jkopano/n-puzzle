@@ -1,0 +1,8 @@
+[package]
+name = "npuzzle-lib"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+pairing-heap = "0.1"
+algorithm_derive = { path = "../algorithm_derive" }
